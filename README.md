@@ -22,7 +22,8 @@ This repository contains my submitted work for each module and assignment throug
 
 ## 📁 Repository Structure
 
-> The following folders and files organize the major assignments and artifacts for the course:
+The following folders and files organize the major assignments and artifacts for the course:
+ 
 CS-405/
 │
 ├── CS 405 M2 BufferOverflow Aqbah.zip

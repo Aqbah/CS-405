@@ -24,18 +24,19 @@ This repository contains my submitted work for each module and assignment throug
 
 > The following folders and files organize the major assignments and artifacts for the course:
 CS-405/
-├─ CS 405 M2 BufferOverflow Aqbah.zip
-├─ CS 405 M2 SQLInjection Aqbah.zip
-├─ CS 405 M5 Encryption Aqbah.zip
-├─ CS 405 Project Two Presentation Aqbah.pptx
-├─ CS 405 Security Policy Aqbah.docx
-├─ Exceptions Aqbah Aamir.zip
-├─ Module 8 Journal Aqbah.docx
-├─ NumericOverflows Aqbah.zip
-├─ Questionable Code Aqbah.zip
-├─ SecurityUnitTests Aqbah.zip
-├─ test Aqbah.zip
-├─ README.md
+│
+├── CS 405 M2 BufferOverflow Aqbah.zip
+├── CS 405 M2 SQLInjection Aqbah.zip
+├── CS 405 M5 Encryption Aqbah.zip
+├── CS 405 Project Two Presentation Aqbah.pptx
+├── CS 405 Security Policy Aqbah.docx
+├── Exceptions Aqbah Aamir.zip
+├── Module 8 Journal Aqbah.docx
+├── NumericOverflows Aqbah.zip
+├── Questionable Code Aqbah.zip
+├── SecurityUnitTests Aqbah.zip
+├── test Aqbah.zip
+└── README.md
 
 ---
 
